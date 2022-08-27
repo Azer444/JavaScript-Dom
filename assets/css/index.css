@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+*{
+    margin: 0 ;
+    padding: 0;
+}
+
+.first {
+    position: relative;
+    display: flex;
+    left: 180px;
+}
+.first input{
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+.second input{
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+.second {
+    position: relative;
+    display: flex;
+    left: 180px;
+    color: cadetblue;
+}
+.return{
+    position: relative;
+    display:flex;
+    left: 510px;
+}
+
+.pluss {
+    width: 220px;
+    height: 40px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: blue;
+}
+
+.pluss h1 {
+    font-size: 25px;
+}
+
+.minuss {
+    width: 220px;
+    height: 40px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: red;
+}
+
+.minuss h1 {
+    font-size: 25px;
+}
+
+.multiplicationn {
+    width: 220px;
+    height: 40px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: green;
+}
+
+.multiplicationn h1 {
+    font-size: 25px;
+}
+
+.dividedd {
+    width: 220px;
+    height: 40px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: yellow;
+}
+
+.dividedd h1 {
+    font-size: 25px;
+}
